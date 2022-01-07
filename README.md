@@ -25,7 +25,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/foto tiago.jpeg" width="100px;" alt="Foto do Tiago Agositnho no GitHub"/><br>
+        <img src="./assets/foto do tiago.jpeg" width="100px;" alt="Foto do Tiago Agositnho no GitHub"/><br>
         <sub>
           <b>Tiago Agostinho</b>
         </sub>
